@@ -1,0 +1,102 @@
+body {background-image: url(img/seriearose.webp);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    font-family:"Arial Black", Gadget, sans-serif;
+    letter-spacing: 2px ;
+    word-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center; 
+}
+tr{
+letter-spacing: 2px;
+word-spacing: 2px;
+color: white;
+text-align: center;
+}
+th{
+font-size: 20;
+letter-spacing: 2px;
+ word-spacing: 2px;
+ color: white;
+ width: 25%;
+}
+td{
+letter-spacing: 2px;
+word-spacing: 2px;
+
+}
+a{
+    font-size: large;
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+
+    position: absolute;
+    top: 95%;
+    width: 100%;
+    left:44%;
+    
+}
+#classifica{
+    position: absolute;
+    top:29%;
+    left: 3%;
+}
+
+p{
+    position: absolute;
+    top:85%;
+    left: 3%;
+    color: white;
+    line-height:20px
+}
+#marcatori{
+    position: absolute;
+    top:29%;
+    right: 2%;
+    
+    
+}
+.coloretesto1{
+    background: #DEB887;
+    color: black;
+    font-weight: 550;
+}
+.coloretesto2{
+    background: #FFF8DC;
+    color: black;
+    font-weight: 550;
+}
+#classifica, #marcatori, tr, td {
+    border: 1px solid rgb(0, 0, 0) ;
+  }
+
+table#marcatori th{
+    width: 170px;
+}
+.nero{
+    background-color: black;
+    color: white;
+}
+.rosa{
+    background-color: #ff1a66;
+}
+.verde{
+    background-color: #558000;
+}
+.giallo{
+    background-color: #997a00;
+}
+.arancione{
+    background-color: #e62e00;
+}
+.blu{
+    background-color: 	#4169E1;
+}

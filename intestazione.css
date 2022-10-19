@@ -1,0 +1,35 @@
+
+body {background-image: url(img/italia.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  }
+a{
+    font-size: 20px;
+    color: rgb(103, 0, 0);
+    font-family:"Arial Black", Gadget, sans-serif;
+    letter-spacing: 2px ;
+    word-spacing: 2px;
+    text-transform: uppercase;
+    background-color: rgba(255, 255, 255, 0.2);
+    
+}
+
+h1{
+    font-size: 60px;
+    color: rgb(0, 0, 0);
+    font-family:"Arial Black", Gadget, sans-serif;
+    letter-spacing: 2px ;
+    word-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 200px;
+}
+address{
+    position: absolute;
+    top: 90%;
+    width: 100%;
+    text-align: center;
+    color: white;
+    
+}
+

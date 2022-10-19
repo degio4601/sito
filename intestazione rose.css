@@ -1,0 +1,36 @@
+
+body {background-image: url(img/seriearose.webp);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 50px;
+    color: rgb(0, 255, 0);
+    font-family:"Arial Black", Gadget, sans-serif;
+    letter-spacing: 2px ;
+    word-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+a{
+    font-size: large;
+    color: rgb(255, 255, 255);
+    font-family:cursive;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    word-spacing: 1px;
+    font-weight: 800;
+}
+li{
+    margin-top:20px;
+    color: rgb(255, 255, 255);
+}
+p{
+    font-size: 23px;
+    color: rgb(255, 255, 255);
+    font-family:"Arial Black", Gadget, sans-serif;
+    letter-spacing: 2px ;
+    word-spacing: 2px;
+}

@@ -1,0 +1,46 @@
+
+body {background-image: url(img/sfondo\ 2.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    font-family:"Arial Black", Gadget, sans-serif;
+    letter-spacing: 2px ;
+    word-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center;
+    font-family:cursive;
+}
+
+h4{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family:'Times New Roman', Times, serif ;
+    letter-spacing: 2px ;
+    word-spacing: 2px;
+}
+
+p{
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing: 2px ;
+    word-spacing: 2px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    line-height:30px;
+    
+}
+
+a{
+    font-size: large;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
